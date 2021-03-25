@@ -1,6 +1,8 @@
 Ahmad Eszran - Billing System (Testing on new joiner for Jantzen CRM)
 
 - Users can Register & Login as "Admin"
+- Admin create "Account" first
+- Then, "Order" & "Invoice" can be created
 
 
 - Admin can:
